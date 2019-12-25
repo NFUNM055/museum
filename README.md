@@ -41,3 +41,8 @@
 4、系统维护成本
 
 - 效益：更好的用户体验，更具人性化。
+
+#### 原型（因为是视障者所用，界面很简洁）
+
+![原型1](https://images.gitee.com/uploads/images/2019/1225/183559_44a4b681_1648156.png "手机1.PNG")
+![原型2](https://images.gitee.com/uploads/images/2019/1225/183629_6e4ddea4_1648156.png "手机2.PNG")
