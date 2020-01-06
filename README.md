@@ -42,7 +42,10 @@
 
 - 效益：更好的用户体验，更具人性化。
 
-#### 原型（因为是视障者所用，界面很简洁）
+#### 原型（考虑到使用的用户群体，原型设计界面简洁，操作简单。）
 
-![原型1](https://images.gitee.com/uploads/images/2019/1225/183559_44a4b681_1648156.png "手机1.PNG")
-![原型2](https://images.gitee.com/uploads/images/2019/1225/183629_6e4ddea4_1648156.png "手机2.PNG")
+![原型博物馆.PNG](https://upload-images.jianshu.io/upload_images/9460880-abab267db344f306.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
+
+
