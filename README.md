@@ -61,11 +61,19 @@
 
 #### 原型
 
+
+
 ![动静博物馆架构图.PNG](https://upload-images.jianshu.io/upload_images/9460880-edff144478d574ea.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+1、语音故事（语音合成api）:点击语音故事，进入详情页面，其中有“童趣”和“深度”两个分类，从中选择任意展品故事，进入播放页。
 
 ![语音故事.PNG](https://upload-images.jianshu.io/upload_images/9460880-c2dbece31ea35e78.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+2、图片游戏（图片识别api）：点击图片游戏进入详情页，包括已收集和未收集两个分类，可以查看收集情况；
+
 ![图片游戏.PNG](https://upload-images.jianshu.io/upload_images/9460880-a181c198193cf11d.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+3、点击拍照进入拍照识别页。
 
 ![拍照识图.PNG](https://upload-images.jianshu.io/upload_images/9460880-15bb7d10ed1971e2.PNG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
